@@ -1,7 +1,7 @@
 {
     "name": "envbuilder",
-    "image": "mcr.microsoft.com/devcontainers/go:1.22",
+    "image": "mcr.microsoft.com/devcontainers/go:bookworm",
     "features": {
-        "ghcr.io/devcontainers/features/docker-in-docker": {}
+        "ghcr.io/devcontainers/features/docker-in-docker:2.16.0": {}
     }
 }
